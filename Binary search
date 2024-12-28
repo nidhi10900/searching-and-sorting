@@ -1,3 +1,5 @@
+#using recursion
+
 def binary_search(arr,low,high,item):
   
   if low<=high:
